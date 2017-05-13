@@ -7,3 +7,5 @@ for i in range(1, 20, 2):
 
 for i in range(500):
     print(random.random())
+
+print("asta la vista")
